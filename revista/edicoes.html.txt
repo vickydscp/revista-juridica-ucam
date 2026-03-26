@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Edições</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header class="topo">
+  <h1>Revista de Estudos Jurídicos UCAM</h1>
+</header>
+
+<nav class="menu">
+  <a href="index.html">Início</a>
+</nav>
+
+<main class="container">
+
+<div class="card-edicao">
+  <h3>Volume 1, Número 1 (2026)</h3>
+  <a href="volumes/v1n1.html">Ver edição</a>
+</div>
+
+</main>
+
+</body>
+</html>

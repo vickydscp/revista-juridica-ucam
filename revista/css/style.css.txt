@@ -1,0 +1,63 @@
+body {
+  font-family: "Georgia", serif;
+  margin: 0;
+  background: #ffffff;
+}
+
+/* FAIXA VINHO */
+.topo {
+  background: #6b0f1a;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  border-bottom: 5px solid #3d0008;
+}
+
+.topo h1 {
+  margin: 0;
+  font-size: 32px;
+  font-family: 'Playfair Display', serif;
+}
+
+.subtitulo {
+  margin-top: 10px;
+}
+
+/* MENU */
+.menu {
+  background: #f4f4f4;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu a {
+  margin: 15px;
+  text-decoration: none;
+  color: #6b0f1a;
+  font-weight: bold;
+}
+
+/* CONTEÚDO */
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+.card-edicao {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+.artigo {
+  margin-bottom: 40px;
+}
+
+.botao {
+  background: #6b0f1a;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}

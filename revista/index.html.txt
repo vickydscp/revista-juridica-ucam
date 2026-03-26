@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Revista de Estudos Jurídicos UCAM</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="topo">
+  <h1>Revista de Estudos Jurídicos UCAM</h1>
+  <p class="subtitulo">Periódico Científico Jurídico</p>
+</header>
+
+<nav class="menu">
+  <a href="index.html">Início</a>
+  <a href="edicoes.html">Edições</a>
+  <a href="sobre.html">Sobre</a>
+  <a href="submissao.html">Submissão</a>
+</nav>
+
+<main class="container">
+
+<h2>Última edição</h2>
+
+<div class="card-edicao">
+  <h3>Volume 1, Número 1 (2026)</h3>
+  <a href="volumes/v1n1.html">Acessar edição</a>
+</div>
+
+</main>
+
+</body>
+</html>
