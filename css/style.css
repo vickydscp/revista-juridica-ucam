@@ -95,3 +95,23 @@ p {
   text-align: justify;
   text-indent: 30px;
 }
+
+.noticia h2 {
+  color: #6b0f1a;
+  margin-bottom: 5px;
+  font-family: 'Playfair Display', serif;
+}
+
+.data {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 10px;
+}
+
+/* PARÁGRAFOS (caso ainda não tenha colocado) */
+p {
+  margin-bottom: 18px;
+  line-height: 1.8;
+  text-align: justify;
+  text-indent: 30px;
+}
