@@ -88,3 +88,10 @@ body {
 .instrucoes ul {
   padding-left: 20px;
 }
+/* PARÁGRAFOS - estilo revista */
+p {
+  margin-bottom: 18px;
+  line-height: 1.8;
+  text-align: justify;
+  text-indent: 30px;
+}
