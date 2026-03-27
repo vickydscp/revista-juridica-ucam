@@ -44,14 +44,31 @@ body {
   padding: 20px;
 }
 
-.card-edicao {
-  border: 1px solid #ccc;
-  padding: 15px;
-  margin: 15px 0;
+/* NOTÍCIAS */
+.noticia {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
 }
 
-.artigo {
-  margin-bottom: 40px;
+.noticia h2 {
+  color: #6b0f1a;
+  margin-bottom: 5px;
+  font-family: 'Playfair Display', serif;
+}
+
+.data {
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 10px;
+}
+
+/* PARÁGRAFOS */
+p {
+  margin-bottom: 18px;
+  line-height: 1.8;
+  text-align: justify;
+  text-indent: 30px;
 }
 
 /* BOTÃO */
@@ -69,7 +86,7 @@ body {
   background: #3d0008;
 }
 
-/* INSTRUÇÕES DE SUBMISSÃO */
+/* INSTRUÇÕES */
 .instrucoes {
   text-align: left;
   max-width: 800px;
@@ -87,31 +104,4 @@ body {
 
 .instrucoes ul {
   padding-left: 20px;
-}
-/* PARÁGRAFOS - estilo revista */
-p {
-  margin-bottom: 18px;
-  line-height: 1.8;
-  text-align: justify;
-  text-indent: 30px;
-}
-
-.noticia h2 {
-  color: #6b0f1a;
-  margin-bottom: 5px;
-  font-family: 'Playfair Display', serif;
-}
-
-.data {
-  font-size: 14px;
-  color: gray;
-  margin-bottom: 10px;
-}
-
-/* PARÁGRAFOS (caso ainda não tenha colocado) */
-p {
-  margin-bottom: 18px;
-  line-height: 1.8;
-  text-align: justify;
-  text-indent: 30px;
 }
